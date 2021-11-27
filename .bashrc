@@ -2,7 +2,6 @@
 # ~/.bashrc
 #
 
-echo "Welcome Back Eightoo"
 neofetch
 
 # If not running interactively, don't do anything
