@@ -189,6 +189,7 @@ exec_always killall -q polybar
 #these remove window borders and titles. remove this to get them back
 for_window [class="^.*"] border pixel 0
 gaps inner 7
+gaps outer 7
 
 #Startup Commands
 #these are simple commands you want to start at wakeup, self explanatory
