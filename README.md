@@ -9,6 +9,6 @@ __Examples__
 ![2021-11-26-123025_1920x1080_scrot](https://user-images.githubusercontent.com/59175293/143620085-8e28816a-a32f-4438-8f63-fef02ecb3814.png)
 
 # Requirements/Dependencies
-   __[i3wm](https://i3wm.org/) with [i3-Rounded-Corners](https://github.com/resloved/i3),
+   __[i3wm](https://i3wm.org/) with [i3-Gaps](https://github.com/Airblader/i3),
    [Polybar](https://polybar.github.io/),
    [Pywal](https://github.com/dylanaraps/pywal), Urxvt, and, Compton.__
