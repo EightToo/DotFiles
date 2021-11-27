@@ -2,7 +2,7 @@
 # ~/.bashrc
 #
 
-neofetch
+neofetch --w3m
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
