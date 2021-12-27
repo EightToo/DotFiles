@@ -12,5 +12,5 @@ __Examples__
 
 # Requirements/Dependencies
    __[i3wm](https://i3wm.org/) with [i3-Gaps](https://github.com/Airblader/i3),
-   [Polybar](https://polybar.github.io/),
-   [Pywal](https://github.com/dylanaraps/pywal), Urxvt, and, Compton.__
+   [Polybar](https://polybar.github.io/), [Pywal](https://github.com/dylanaraps/pywal), 
+   Urxvt, CMUS, Terminus, Noto-Fonts-CJK, and, Compton.__
