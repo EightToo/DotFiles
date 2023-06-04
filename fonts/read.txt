@@ -1,0 +1,4 @@
+there are your fonts you need.
+after moving them to /usr/share/fonts/ make sure to run the command
+'fc-cache -v /usr/share/fonts'
+into your terminal
